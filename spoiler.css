@@ -1,4 +1,4 @@
-#toggleButton {
+.toggleButton {
     display: inline-block;
     border: 2px solid lightblue;
     background-color: white;
@@ -9,7 +9,7 @@
     margin-bottom: 10px;
 }
 
-#content {
+.content {
     border: 1px solid black;
     padding: 10px;
     display: none; /* 初始状态为折叠 */
